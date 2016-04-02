@@ -1,0 +1,31 @@
+spring:
+    profiles: default
+    datasource:
+        initialize: false
+    batch:
+        job:
+            enabled: false # disable jobs from running upon start-up
+
+# Tomcat server port
+server:
+    port: 9003
+
+datasource:
+    integration:
+        dataSourceClassName: com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+        url: jdbc:mysql://localhost/db
+        username: root
+        password: ~
+
+file:
+  path: /tmp
+  name: file_name.csv
+  pollInterval: 60000
+
+batch:
+  size: 5000
+
+# Unit tests
+---
+spring:
+    profiles: test

@@ -55,6 +55,9 @@ public class BatchExecutorConfig {
     @Value("${batch.size}")
     private int batchSize;
 
+    @Value("${batch.threads}")
+    private int threadCount;
+
     private List<String> headers;
 
     private NamedParameterJdbcTemplate namedParameterJdbcTemplate;
@@ -100,7 +103,7 @@ public class BatchExecutorConfig {
     public IntegrationFlow flowBatchExec() {
         return IntegrationFlows.from("csvPayloadChannel")
                 .split(this, "splitPayloadIntoBatch")
-                .channel(MessageChannels.executor(Executors.newFixedThreadPool(4)))
+                .channel(MessageChannels.executor(Executors.newFixedThreadPool(threadCount)))
                 .handle(this.saveBatchToDb())
                 .get();
     }

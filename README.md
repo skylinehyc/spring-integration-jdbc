@@ -2,7 +2,7 @@ This project shows how to use spring integration dsl to load a csv into database
 
 It demonstrates the usage of following frameworks - 
 
-1. Spring Integraton DSL
+1. Spring Integration DSL
   a. Service Activator Example
   b. Executor Channel - Multithreading
   c. Splitter - Split payload into batches.

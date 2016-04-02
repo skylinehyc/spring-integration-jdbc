@@ -24,6 +24,7 @@ file:
 
 batch:
   size: 5000
+  threads: 4
 
 # Unit tests
 ---

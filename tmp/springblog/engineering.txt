@@ -1,0 +1,21 @@
+《Spring Data JDBC, References, and Aggregates》https://spring.io/blog/2018/09/24/spring-data-jdbc-references-and-aggregates
+《Hands on with Spring Vault 2.1》https://spring.io/blog/2018/09/24/hands-on-with-spring-vault-2-1
+《Spring Cloud Function 2.0 and Azure Functions》https://spring.io/blog/2018/09/25/spring-cloud-function-2-0-and-azure-functions
+《This Week in Spring (SpringOne Platform 2018 edition) - September 25th, 2018》https://spring.io/blog/2018/09/26/this-week-in-spring-springone-platform-2018-edition-september-25th-2018
+《What's new in Spring Data Lovelace for Redis and Apache Cassandra?》https://spring.io/blog/2018/09/26/what-s-new-in-spring-data-lovelace-for-redis-and-apache-cassandra
+《The Reactive Revolution at SpringOne Platform 2018 (part 1/N)》https://spring.io/blog/2018/09/27/the-reactive-revolution-at-springone-platform-2018-part-1-n
+《What's new in Spring Data Lovelace for MongoDB?》https://spring.io/blog/2018/09/27/what-s-new-in-spring-data-lovelace-for-mongodb
+《What's new in Spring Data Lovelace?》https://spring.io/blog/2018/09/27/what-s-new-in-spring-data-lovelace
+《The evolution of Spring Fu》https://spring.io/blog/2018/10/02/the-evolution-of-spring-fu
+《This Week in Spring - Tuesday, October 2nd, 2018》https://spring.io/blog/2018/10/02/this-week-in-spring-tuesday-october-2nd-2018
+《Spring Noticias en Español, 2 de octubre 2018》https://spring.io/blog/2018/10/03/spring-noticias-en-espa-ol-2-de-octubre-2018
+《Spring Data JDBC, References, and Aggregates》https://spring.io/blog/2018/09/24/spring-data-jdbc-references-and-aggregates
+《Hands on with Spring Vault 2.1》https://spring.io/blog/2018/09/24/hands-on-with-spring-vault-2-1
+《Spring Cloud Function 2.0 and Azure Functions》https://spring.io/blog/2018/09/25/spring-cloud-function-2-0-and-azure-functions
+《This Week in Spring (SpringOne Platform 2018 edition) - September 25th, 2018》https://spring.io/blog/2018/09/26/this-week-in-spring-springone-platform-2018-edition-september-25th-2018
+《What's new in Spring Data Lovelace for Redis and Apache Cassandra?》https://spring.io/blog/2018/09/26/what-s-new-in-spring-data-lovelace-for-redis-and-apache-cassandra
+《Spring Data JDBC, References, and Aggregates》https://spring.io/blog/2018/09/24/spring-data-jdbc-references-and-aggregates
+《Hands on with Spring Vault 2.1》https://spring.io/blog/2018/09/24/hands-on-with-spring-vault-2-1
+《Spring Cloud Function 2.0 and Azure Functions》https://spring.io/blog/2018/09/25/spring-cloud-function-2-0-and-azure-functions
+《Spring Data JDBC, References, and Aggregates》https://spring.io/blog/2018/09/24/spring-data-jdbc-references-and-aggregates
+《Hands on with Spring Vault 2.1》https://spring.io/blog/2018/09/24/hands-on-with-spring-vault-2-1

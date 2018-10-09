@@ -13,14 +13,14 @@ server:
 datasource:
     integration:
         dataSourceClassName: com.mysql.jdbc.jdbc2.optional.MysqlDataSource
-        url: jdbc:mysql://localhost/db
+        url: jdbc:mysql://192.168.1.7/db
         username: root
-        password: ~
+        password: 123456
 
 file:
-  path: /tmp
+  path: D:\ares\spring-integration-jdbc\tmp
   name: file_name.csv
-  pollInterval: 60000
+  pollInterval: 600000
 
 batch:
   size: 5000

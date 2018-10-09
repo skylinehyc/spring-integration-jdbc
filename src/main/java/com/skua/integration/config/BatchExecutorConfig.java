@@ -67,6 +67,7 @@ public class BatchExecutorConfig {
         namedParameterJdbcTemplate = new NamedParameterJdbcTemplate(dataSource);
     }
 
+    // 定义流
     @Bean
     public IntegrationFlow batchExecutionFlow() {
         return IntegrationFlows.from(
